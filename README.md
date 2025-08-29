@@ -2,7 +2,7 @@
 implementación de cluster Okd 4.15  
 
 Método de instalación: UPI   
-URL = https://docs.okd.io/4.15/installing/installing_vsphere/upi/upi-vsphere-installation-reqs.html   
+URL = https://docs.okd.io/4.15/installing/installing_bare_metal/preparing-to-install-on-bare-metal.html     
 URL = https://github.com/okd-project/okd/releases/tag/4.15.0-0.okd-2024-03-10-010116  
 URL = https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/latest  
 URL iso RHCOS .415 = https://mirror.openshift.com/pub/openshift-v4/x86_64/dependencies/rhcos/4.15/4.15.23/rhcos-4.15.23-x86_64-live.x86_64.iso   
