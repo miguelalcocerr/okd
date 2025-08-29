@@ -2,7 +2,7 @@
 implementación de cluster Okd 4.15  
 
 Método de instalación: UPI   
-URL = Instalador FCOS = https://builds.coreos.fedoraproject.org/prod/streams/stable/builds/39.20240210.3.0/x86_64/fedora-coreos-39.20240210.3.0-live.x86_64.iso  
+URL Instalador FCOS = https://builds.coreos.fedoraproject.org/prod/streams/stable/builds/39.20240210.3.0/x86_64/fedora-coreos-39.20240210.3.0-live.x86_64.iso  
 URL = https://docs.okd.io/4.15/installing/installing_bare_metal/preparing-to-install-on-bare-metal.html     
 URL = https://github.com/okd-project/okd/releases/tag/4.15.0-0.okd-2024-03-10-010116  
 URL = https://mirror.openshift.com/pub/openshift-v4/dependencies/rhcos/latest  
