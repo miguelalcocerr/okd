@@ -44,4 +44,7 @@ APP web de Clínica de salud para generar citas:
 
 URL = http://clinica-alcocer-web-clinica-alcocer-rojo.apps.clusterokd.alcocerrojo.pe  
 Repositorio = https://github.com/miguelalcocerr/appp_web_clinica  
-<img width="1582" height="950" alt="image" src="https://github.com/user-attachments/assets/d3d78398-fc14-4f66-847f-0252ced6b17a" />
+<img width="1582" height="950" alt="image" src="https://github.com/user-attachments/assets/d3d78398-fc14-4f66-847f-0252ced6b17a" />  
+
+<img width="1299" height="574" alt="image" src="https://github.com/user-attachments/assets/fcab0f9c-ca5a-46e2-a70c-7e1903b6bd08" />  
+
