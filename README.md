@@ -11,6 +11,10 @@ URL CoreOS = https://mirror.openshift.com/pub/openshift-v4/clients/coreos-instal
 URL descarga iso OKD = https://fedoraproject.org/en/coreos/download?tab=metal_virtualized&stream=stable   
 URL descarga iso OKD = https://builds.coreos.fedoraproject.org/browser?stream=stable&arch=x86_64   
 
+Capacidades del cluster OKD  
+<img width="1092" height="281" alt="image" src="https://github.com/user-attachments/assets/d0ebfb35-4a74-41a3-b461-eabed3b11263" />
+
+
 
 Bastión:    
 Se crean los directorios:  
